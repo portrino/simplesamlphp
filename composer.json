@@ -51,8 +51,10 @@
         "issues": "https://github.com/simplesamlphp/simplesamlphp/issues",
         "source": "https://github.com/simplesamlphp/simplesamlphp"
     },
-    {
-        "type": "vcs",
-        "url":  "https://github.com/portrino/saml2.git"
-    }
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "https://github.com/portrino/saml2.git"
+        }
+    ]
 }
